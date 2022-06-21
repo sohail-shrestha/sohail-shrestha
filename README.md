@@ -2,12 +2,9 @@ About Me
 ---
 Hi there. Hope you're doing well.
 
-I'm Sohail. I have 3 years of professional experiance in building Native Android Apps, and since I've joined Fusemachines on July 2021, I have had the opportunity to add Flutter, Nest.js, Node.js and React Native to my Tech Stack. 
+I'm Sohail. I have 4 years of professional experiance Software Engineering. 
 
-I think adopting a tech stack for a project is better than adopting a project for a tech stack. What do you think?
-
-
-
+I have professionally worked on Native Android, React Native, Flutter and Nest js frameworks, which I'm looking forward to expand.
 
 Programming Languages
 ---
