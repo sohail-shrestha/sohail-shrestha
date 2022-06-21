@@ -1,10 +1,15 @@
 About Me
 ---
-Hi there. Hope you're doing well.
+Hello.
 
 I'm Sohail. I have 4 years of professional experiance Software Engineering. 
 
 I have professionally worked on Native Android, React Native, Flutter and Nest js frameworks, which I'm looking forward to expand.
+
+Accomplishments
+---
+* 0% Crashes as per App Store Connect, in one of the app that I'm currently working on.
+* Changing tech stack as per required by the company and the project. 
 
 Programming Languages
 ---
